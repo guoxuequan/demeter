@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/md.dir/MdSpi.cpp.o CMakeFiles/md.dir/main.cpp.o  -o md ../lib/libthostmduserapi.so 

@@ -1,0 +1,3 @@
+/Users/xguo/Develop/IntelligenceCenter/ctp/build/CMakeFiles/rebuild_cache.dir
+/Users/xguo/Develop/IntelligenceCenter/ctp/build/CMakeFiles/edit_cache.dir
+/Users/xguo/Develop/IntelligenceCenter/ctp/build/CMakeFiles/md.dir

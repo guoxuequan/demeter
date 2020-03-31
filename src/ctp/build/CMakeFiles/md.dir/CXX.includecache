@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xguo/Develop/IntelligenceCenter/ctp/MdSpi.cpp
+MdSpi.h
+/Users/xguo/Develop/IntelligenceCenter/ctp/MdSpi.h
+iostream
+-
+
+/Users/xguo/Develop/IntelligenceCenter/ctp/MdSpi.h
+include/ThostFtdcMdApi.h
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcMdApi.h
+
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcMdApi.h
+ThostFtdcUserApiStruct.h
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcUserApiStruct.h
+
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcUserApiDataType.h
+
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcUserApiStruct.h
+ThostFtdcUserApiDataType.h
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcUserApiDataType.h
+
+/Users/xguo/Develop/IntelligenceCenter/ctp/main.cpp
+include/ThostFtdcMdApi.h
+/Users/xguo/Develop/IntelligenceCenter/ctp/include/ThostFtdcMdApi.h
+iostream
+-
+
